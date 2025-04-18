@@ -1,2 +1,2 @@
-﻿# Neural Network Landscape Profiler
-A small tool to profile loss landscapes of neural networks.
+﻿# Transformers Research
+Stuff I used to get a better understanding of Transformers and Vision Transformers.
